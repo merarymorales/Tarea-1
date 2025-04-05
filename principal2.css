@@ -1,0 +1,5 @@
+@charset "utf-8";
+/* Segundo Cosigo CSS - Principal */
+p:nth-child(odd){color: #0E7BF0;}
+P:nth-child(even){color: #FC0AAC;}
+
